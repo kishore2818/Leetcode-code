@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kishore2818/Leetcode-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
