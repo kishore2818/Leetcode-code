@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Counting
 |  |
 | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Simulation
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Two Pointers
 |  |
 | ------- |
