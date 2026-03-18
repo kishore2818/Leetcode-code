@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kishore2818/Leetcode-code/tree/master/0263-ugly-number) |
+| [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kishore2818/Leetcode-code/tree/master/1837-sum-of-digits-in-base-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kishore2818/Leetcode-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
+## Greedy
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+## Sorting
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 <!---LeetCode Topics End-->
