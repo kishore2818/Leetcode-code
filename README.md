@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kishore2818/Leetcode-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kishore2818/Leetcode-code/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
