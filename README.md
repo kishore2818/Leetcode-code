@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
