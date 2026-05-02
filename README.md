@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/kishore2818/Leetcode-code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [3099-harshad-number](https://github.com/kishore2818/Leetcode-code/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/kishore2818/Leetcode-code/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
 ## Number Theory
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kishore2818/Leetcode-code/tree/master/0231-power-of-two) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
