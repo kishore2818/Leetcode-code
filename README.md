@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [3099-harshad-number](https://github.com/kishore2818/Leetcode-code/tree/master/3099-harshad-number) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Two Pointers
 |  |
 | ------- |
