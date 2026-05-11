@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kishore2818/Leetcode-code/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kishore2818/Leetcode-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kishore2818/Leetcode-code/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kishore2818/Leetcode-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 ## Divide and Conquer
