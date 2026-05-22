@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kishore2818/Leetcode-code/tree/master/2733-neither-minimum-nor-maximum) |
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
+| [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kishore2818/Leetcode-code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kishore2818/Leetcode-code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 ## Bit Manipulation
