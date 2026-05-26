@@ -10,10 +10,10 @@ class Solution {
             ? a.compareTo(b)
             : map.get(b) - map.get(a));   
 
-        ArrayList<String> ans=new ArrayList<>();
-        for(int i=0;i<k;i++){
-            ans.add(list.get(i));
-        } 
-        return ans;
+        // ArrayList<String> ans=new ArrayList<>();
+        // for(int i=0;i<k;i++){
+        //     ans.add(list.get(i));
+        // } 
+        return list.subList(0,k);
     }
 }
