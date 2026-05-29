@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/kishore2818/Leetcode-code/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/kishore2818/Leetcode-code/tree/master/2404-most-frequent-even-element) |
@@ -271,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/kishore2818/Leetcode-code/tree/master/2270-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
