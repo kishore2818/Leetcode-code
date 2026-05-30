@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/kishore2818/Leetcode-code/tree/master/2404-most-frequent-even-element) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kishore2818/Leetcode-code/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kishore2818/Leetcode-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2374-node-with-highest-edge-score](https://github.com/kishore2818/Leetcode-code/tree/master/2374-node-with-highest-edge-score) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/kishore2818/Leetcode-code/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
