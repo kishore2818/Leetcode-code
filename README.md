@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kishore2818/Leetcode-code/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kishore2818/Leetcode-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
