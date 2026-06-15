@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kishore2818/Leetcode-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
@@ -332,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kishore2818/Leetcode-code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
