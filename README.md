@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
+| [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 ## Recursion
 |  |
 | ------- |
@@ -349,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
