@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishore2818/Leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/kishore2818/Leetcode-code/tree/master/1952-three-divisors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/kishore2818/Leetcode-code/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kishore2818/Leetcode-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kishore2818/Leetcode-code/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kishore2818/Leetcode-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
