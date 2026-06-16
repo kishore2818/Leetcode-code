@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishore2818/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
