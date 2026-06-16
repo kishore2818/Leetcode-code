@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [3099-harshad-number](https://github.com/kishore2818/Leetcode-code/tree/master/3099-harshad-number) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishore2818/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting
 |  |
@@ -343,10 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 ## Linked List
 |  |
