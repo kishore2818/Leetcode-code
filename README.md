@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
+| [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/kishore2818/Leetcode-code/tree/master/2270-number-of-ways-to-split-array) |
+| [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
 |  |
 | ------- |
