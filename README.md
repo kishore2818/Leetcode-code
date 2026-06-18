@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 | [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## String
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
