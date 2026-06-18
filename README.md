@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## String
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishore2818/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
+| [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
