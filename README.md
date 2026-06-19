@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kishore2818/Leetcode-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kishore2818/Leetcode-code/tree/master/1837-sum-of-digits-in-base-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 | [1200-minimum-absolute-difference](https://github.com/kishore2818/Leetcode-code/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
