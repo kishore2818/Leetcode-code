@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
+| [3848-check-digitorial-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/3848-check-digitorial-permutation) |
 ## Enumeration
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
+| [3848-check-digitorial-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/3848-check-digitorial-permutation) |
 ## Simulation
 |  |
 | ------- |
