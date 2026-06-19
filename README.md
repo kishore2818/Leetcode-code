@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/kishore2818/Leetcode-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kishore2818/Leetcode-code/tree/master/0171-excel-sheet-column-number) |
+| [0394-decode-string](https://github.com/kishore2818/Leetcode-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kishore2818/Leetcode-code/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/kishore2818/Leetcode-code/tree/master/0394-decode-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/kishore2818/Leetcode-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
