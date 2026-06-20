@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
+| [3853-merge-close-characters](https://github.com/kishore2818/Leetcode-code/tree/master/3853-merge-close-characters) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
+| [3853-merge-close-characters](https://github.com/kishore2818/Leetcode-code/tree/master/3853-merge-close-characters) |
 ## Two Pointers
 |  |
 | ------- |
