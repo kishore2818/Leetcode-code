@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0229-majority-element-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
 | [2354-number-of-excellent-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2354-number-of-excellent-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
