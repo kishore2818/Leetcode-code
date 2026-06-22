@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
+| [2951-find-the-peaks](https://github.com/kishore2818/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
 ## Number Theory
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kishore2818/Leetcode-code/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/kishore2818/Leetcode-code/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
+| [2951-find-the-peaks](https://github.com/kishore2818/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishore2818/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
