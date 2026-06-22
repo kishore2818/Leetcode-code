@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/kishore2818/Leetcode-code/tree/master/2270-number-of-ways-to-split-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kishore2818/Leetcode-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
