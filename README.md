@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2354-number-of-excellent-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2354-number-of-excellent-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
