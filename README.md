@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
+| [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
+| [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
