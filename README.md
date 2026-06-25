@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kishore2818/Leetcode-code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 | [1200-minimum-absolute-difference](https://github.com/kishore2818/Leetcode-code/tree/master/1200-minimum-absolute-difference) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kishore2818/Leetcode-code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kishore2818/Leetcode-code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/kishore2818/Leetcode-code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
