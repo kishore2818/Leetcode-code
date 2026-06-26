@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kishore2818/Leetcode-code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kishore2818/Leetcode-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishore2818/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kishore2818/Leetcode-code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting Sort
 |  |
 | ------- |
