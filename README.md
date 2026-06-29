@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0209-minimum-size-subarray-sum) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0416-partition-equal-subset-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
