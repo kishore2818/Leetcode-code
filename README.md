@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2683-neighboring-bitwise-xor](https://github.com/kishore2818/Leetcode-code/tree/master/2683-neighboring-bitwise-xor) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kishore2818/Leetcode-code/tree/master/2733-neither-minimum-nor-maximum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/kishore2818/Leetcode-code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kishore2818/Leetcode-code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2354-number-of-excellent-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
+| [2683-neighboring-bitwise-xor](https://github.com/kishore2818/Leetcode-code/tree/master/2683-neighboring-bitwise-xor) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
