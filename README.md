@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kishore2818/Leetcode-code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2544-alternating-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/kishore2818/Leetcode-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishore2818/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishore2818/Leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 ## Backtracking
 |  |
