@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
+| [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
+| [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/kishore2818/Leetcode-code/tree/master/1200-minimum-absolute-difference) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 ## Design
