@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishore2818/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
