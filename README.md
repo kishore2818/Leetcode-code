@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kishore2818/Leetcode-code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
