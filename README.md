@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
