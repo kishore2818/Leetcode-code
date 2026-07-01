@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
+| [3843-first-element-with-unique-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/3843-first-element-with-unique-frequency) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
+| [3843-first-element-with-unique-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/3848-check-digitorial-permutation) |
 ## Simulation
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/kishore2818/Leetcode-code/tree/master/3804-number-of-centered-subarrays) |
 | [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
+| [3843-first-element-with-unique-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/3843-first-element-with-unique-frequency) |
 | [3853-merge-close-characters](https://github.com/kishore2818/Leetcode-code/tree/master/3853-merge-close-characters) |
 ## Two Pointers
 |  |
