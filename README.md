@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/kishore2818/Leetcode-code/tree/master/2239-find-closest-number-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
