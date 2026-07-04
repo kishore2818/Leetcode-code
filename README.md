@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kishore2818/Leetcode-code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
