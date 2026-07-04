@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/kishore2818/Leetcode-code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kishore2818/Leetcode-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kishore2818/Leetcode-code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishore2818/Leetcode-code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishore2818/Leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kishore2818/Leetcode-code/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kishore2818/Leetcode-code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishore2818/Leetcode-code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kishore2818/Leetcode-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
