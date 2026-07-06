@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/kishore2818/Leetcode-code/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/kishore2818/Leetcode-code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kishore2818/Leetcode-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kishore2818/Leetcode-code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishore2818/Leetcode-code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
