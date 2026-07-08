@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/kishore2818/Leetcode-code/tree/master/0647-palindromic-substrings) |
