@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/kishore2818/Leetcode-code/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore2818/Leetcode-code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/kishore2818/Leetcode-code/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2460-apply-operations-to-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/kishore2818/Leetcode-code/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishore2818/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
+| [2460-apply-operations-to-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kishore2818/Leetcode-code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kishore2818/Leetcode-code/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
