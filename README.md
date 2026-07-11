@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kishore2818/Leetcode-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kishore2818/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
+| [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/kishore2818/Leetcode-code/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/kishore2818/Leetcode-code/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kishore2818/Leetcode-code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
+| [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
