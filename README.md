@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/kishore2818/Leetcode-code/tree/master/0853-car-fleet) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
+| [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishore2818/Leetcode-code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishore2818/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/kishore2818/Leetcode-code/tree/master/0853-car-fleet) |
+| [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
