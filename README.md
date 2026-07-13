@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 | [3848-check-digitorial-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/3848-check-digitorial-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Enumeration
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## String
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/3843-first-element-with-unique-frequency) |
 | [3853-merge-close-characters](https://github.com/kishore2818/Leetcode-code/tree/master/3853-merge-close-characters) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Sorting
 |  |
 | ------- |
