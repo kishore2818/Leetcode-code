@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/kishore2818/Leetcode-code/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2938-separate-black-and-white-balls](https://github.com/kishore2818/Leetcode-code/tree/master/2938-separate-black-and-white-balls) |
 | [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kishore2818/Leetcode-code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kishore2818/Leetcode-code/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [2938-separate-black-and-white-balls](https://github.com/kishore2818/Leetcode-code/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/kishore2818/Leetcode-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kishore2818/Leetcode-code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2938-separate-black-and-white-balls](https://github.com/kishore2818/Leetcode-code/tree/master/2938-separate-black-and-white-balls) |
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
