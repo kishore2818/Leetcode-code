@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kishore2818/Leetcode-code/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/kishore2818/Leetcode-code/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kishore2818/Leetcode-code/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/kishore2818/Leetcode-code/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kishore2818/Leetcode-code/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/kishore2818/Leetcode-code/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/kishore2818/Leetcode-code/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kishore2818/Leetcode-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kishore2818/Leetcode-code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/kishore2818/Leetcode-code/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/kishore2818/Leetcode-code/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
