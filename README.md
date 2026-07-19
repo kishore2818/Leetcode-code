@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kishore2818/Leetcode-code/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kishore2818/Leetcode-code/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishore2818/Leetcode-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/kishore2818/Leetcode-code/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/kishore2818/Leetcode-code/tree/master/2951-find-the-peaks) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2683-neighboring-bitwise-xor](https://github.com/kishore2818/Leetcode-code/tree/master/2683-neighboring-bitwise-xor) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kishore2818/Leetcode-code/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishore2818/Leetcode-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/kishore2818/Leetcode-code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/kishore2818/Leetcode-code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kishore2818/Leetcode-code/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
