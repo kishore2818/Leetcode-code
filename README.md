@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kishore2818/Leetcode-code/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/kishore2818/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/kishore2818/Leetcode-code/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kishore2818/Leetcode-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/kishore2818/Leetcode-code/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/kishore2818/Leetcode-code/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/kishore2818/Leetcode-code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kishore2818/Leetcode-code/tree/master/0496-next-greater-element-i) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kishore2818/Leetcode-code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
