@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 | [1200-minimum-absolute-difference](https://github.com/kishore2818/Leetcode-code/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kishore2818/Leetcode-code/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kishore2818/Leetcode-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kishore2818/Leetcode-code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
 | [2923-find-champion-i](https://github.com/kishore2818/Leetcode-code/tree/master/2923-find-champion-i) |
