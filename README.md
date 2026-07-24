@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kishore2818/Leetcode-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kishore2818/Leetcode-code/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 | [0394-decode-string](https://github.com/kishore2818/Leetcode-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kishore2818/Leetcode-code/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/kishore2818/Leetcode-code/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/kishore2818/Leetcode-code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0222-count-complete-tree-nodes) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kishore2818/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
@@ -700,4 +704,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
