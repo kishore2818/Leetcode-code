@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kishore2818/Leetcode-code/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kishore2818/Leetcode-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/kishore2818/Leetcode-code/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kishore2818/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/kishore2818/Leetcode-code/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kishore2818/Leetcode-code/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/kishore2818/Leetcode-code/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kishore2818/Leetcode-code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
