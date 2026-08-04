@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kishore2818/Leetcode-code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/kishore2818/Leetcode-code/tree/master/3804-number-of-centered-subarrays) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/kishore2818/Leetcode-code/tree/master/3804-number-of-centered-subarrays) |
 | [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/3011-find-if-array-can-be-sorted) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishore2818/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
