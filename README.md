@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
