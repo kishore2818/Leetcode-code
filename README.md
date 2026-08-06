@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
 | ------- |
