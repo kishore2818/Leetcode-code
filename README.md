@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kishore2818/Leetcode-code/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
@@ -763,9 +766,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
