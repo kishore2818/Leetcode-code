@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kishore2818/Leetcode-code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kishore2818/Leetcode-code/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kishore2818/Leetcode-code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/kishore2818/Leetcode-code/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishore2818/Leetcode-code/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -785,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kishore2818/Leetcode-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/kishore2818/Leetcode-code/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
