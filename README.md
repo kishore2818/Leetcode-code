@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kishore2818/Leetcode-code/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kishore2818/Leetcode-code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kishore2818/Leetcode-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kishore2818/Leetcode-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishore2818/Leetcode-code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kishore2818/Leetcode-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kishore2818/Leetcode-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
