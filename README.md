@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kishore2818/Leetcode-code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2938-separate-black-and-white-balls](https://github.com/kishore2818/Leetcode-code/tree/master/2938-separate-black-and-white-balls) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kishore2818/Leetcode-code/tree/master/3612-process-string-with-special-operations-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3731-find-missing-elements) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kishore2818/Leetcode-code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
