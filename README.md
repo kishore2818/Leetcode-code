@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/kishore2818/Leetcode-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/kishore2818/Leetcode-code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/0191-number-of-1-bits) |
