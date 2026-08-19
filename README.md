@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2288-apply-discount-to-prices](https://github.com/kishore2818/Leetcode-code/tree/master/2288-apply-discount-to-prices) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kishore2818/Leetcode-code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/kishore2818/Leetcode-code/tree/master/2399-check-distances-between-same-letters) |
