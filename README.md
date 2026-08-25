@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kishore2818/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/kishore2818/Leetcode-code/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kishore2818/Leetcode-code/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kishore2818/Leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/kishore2818/Leetcode-code/tree/master/0705-design-hashset) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishore2818/Leetcode-code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/1207-unique-number-of-occurrences) |
