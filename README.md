@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kishore2818/Leetcode-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kishore2818/Leetcode-code/tree/master/3828-final-element-after-subarray-deletions) |
 | [3848-check-digitorial-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/3848-check-digitorial-permutation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishore2818/Leetcode-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Enumeration
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/kishore2818/Leetcode-code/tree/master/3834-merge-adjacent-equal-elements) |
 | [3839-number-of-prefix-connected-groups](https://github.com/kishore2818/Leetcode-code/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/3843-first-element-with-unique-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishore2818/Leetcode-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/kishore2818/Leetcode-code/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
