@@ -862,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/kishore2818/Leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kishore2818/Leetcode-code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
