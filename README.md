@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/kishore2818/Leetcode-code/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kishore2818/Leetcode-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/kishore2818/Leetcode-code/tree/master/0836-rectangle-overlap) |
 | [0910-smallest-range-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0910-smallest-range-ii) |
 | [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/kishore2818/Leetcode-code/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/kishore2818/Leetcode-code/tree/master/1037-valid-boomerang) |
 ## Sliding Window
 |  |
