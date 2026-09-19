@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2256-minimum-average-difference](https://github.com/kishore2818/Leetcode-code/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/kishore2818/Leetcode-code/tree/master/2270-number-of-ways-to-split-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/kishore2818/Leetcode-code/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2354-number-of-excellent-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2354-number-of-excellent-pairs) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kishore2818/Leetcode-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kishore2818/Leetcode-code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2288-apply-discount-to-prices](https://github.com/kishore2818/Leetcode-code/tree/master/2288-apply-discount-to-prices) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kishore2818/Leetcode-code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kishore2818/Leetcode-code/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kishore2818/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kishore2818/Leetcode-code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2354-number-of-excellent-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/2354-number-of-excellent-pairs) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kishore2818/Leetcode-code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kishore2818/Leetcode-code/tree/master/2248-intersection-of-multiple-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/kishore2818/Leetcode-code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2465-number-of-distinct-averages](https://github.com/kishore2818/Leetcode-code/tree/master/2465-number-of-distinct-averages) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kishore2818/Leetcode-code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
