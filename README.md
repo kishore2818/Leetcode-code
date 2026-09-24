@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/kishore2818/Leetcode-code/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kishore2818/Leetcode-code/tree/master/0168-excel-sheet-column-title) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kishore2818/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/kishore2818/Leetcode-code/tree/master/0198-house-robber) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishore2818/Leetcode-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishore2818/Leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishore2818/Leetcode-code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -895,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
