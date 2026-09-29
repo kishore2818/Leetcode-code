@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
