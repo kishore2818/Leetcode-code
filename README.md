@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore2818/Leetcode-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/kishore2818/Leetcode-code/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishore2818/Leetcode-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishore2818/Leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
