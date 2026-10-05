@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/kishore2818/Leetcode-code/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/kishore2818/Leetcode-code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/kishore2818/Leetcode-code/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/kishore2818/Leetcode-code/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
