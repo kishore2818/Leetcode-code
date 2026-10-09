@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishore2818/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishore2818/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kishore2818/Leetcode-code/tree/master/1657-determine-if-two-strings-are-close) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/kishore2818/Leetcode-code/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/kishore2818/Leetcode-code/tree/master/1382-balance-a-binary-search-tree) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kishore2818/Leetcode-code/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishore2818/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kishore2818/Leetcode-code/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kishore2818/Leetcode-code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/kishore2818/Leetcode-code/tree/master/1833-maximum-ice-cream-bars) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishore2818/Leetcode-code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishore2818/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/kishore2818/Leetcode-code/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
@@ -925,5 +928,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishore2818/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishore2818/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
