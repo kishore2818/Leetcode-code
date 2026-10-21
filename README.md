@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/kishore2818/Leetcode-code/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kishore2818/Leetcode-code/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishore2818/Leetcode-code/tree/master/0724-find-pivot-index) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kishore2818/Leetcode-code/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/kishore2818/Leetcode-code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kishore2818/Leetcode-code/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/kishore2818/Leetcode-code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kishore2818/Leetcode-code/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishore2818/Leetcode-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishore2818/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
