@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kishore2818/Leetcode-code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kishore2818/Leetcode-code/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kishore2818/Leetcode-code/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kishore2818/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kishore2818/Leetcode-code/tree/master/0055-jump-game) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kishore2818/Leetcode-code/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/kishore2818/Leetcode-code/tree/master/0402-remove-k-digits) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kishore2818/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kishore2818/Leetcode-code/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/kishore2818/Leetcode-code/tree/master/0119-pascals-triangle-ii) |
