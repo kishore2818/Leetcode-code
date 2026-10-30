@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kishore2818/Leetcode-code/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kishore2818/Leetcode-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1399-count-largest-group](https://github.com/kishore2818/Leetcode-code/tree/master/1399-count-largest-group) |
+| [1603-design-parking-system](https://github.com/kishore2818/Leetcode-code/tree/master/1603-design-parking-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kishore2818/Leetcode-code/tree/master/1657-determine-if-two-strings-are-close) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kishore2818/Leetcode-code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/kishore2818/Leetcode-code/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/kishore2818/Leetcode-code/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/kishore2818/Leetcode-code/tree/master/1518-water-bottles) |
+| [1603-design-parking-system](https://github.com/kishore2818/Leetcode-code/tree/master/1603-design-parking-system) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kishore2818/Leetcode-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kishore2818/Leetcode-code/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/kishore2818/Leetcode-code/tree/master/1603-design-parking-system) |
 | [3829-design-ride-sharing-system](https://github.com/kishore2818/Leetcode-code/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
