@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/kishore2818/Leetcode-code/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/kishore2818/Leetcode-code/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishore2818/Leetcode-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishore2818/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kishore2818/Leetcode-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/kishore2818/Leetcode-code/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/kishore2818/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [3127-make-a-square-with-the-same-color](https://github.com/kishore2818/Leetcode-code/tree/master/3127-make-a-square-with-the-same-color) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishore2818/Leetcode-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3804-number-of-centered-subarrays](https://github.com/kishore2818/Leetcode-code/tree/master/3804-number-of-centered-subarrays) |
 ## Number Theory
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/kishore2818/Leetcode-code/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/kishore2818/Leetcode-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/kishore2818/Leetcode-code/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishore2818/Leetcode-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishore2818/Leetcode-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/kishore2818/Leetcode-code/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Array
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kishore2818/Leetcode-code/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kishore2818/Leetcode-code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishore2818/Leetcode-code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishore2818/Leetcode-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishore2818/Leetcode-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3523-make-array-non-decreasing](https://github.com/kishore2818/Leetcode-code/tree/master/3523-make-array-non-decreasing) |
 | [3663-find-the-least-frequent-digit](https://github.com/kishore2818/Leetcode-code/tree/master/3663-find-the-least-frequent-digit) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kishore2818/Leetcode-code/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishore2818/Leetcode-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishore2818/Leetcode-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishore2818/Leetcode-code/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
