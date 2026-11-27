@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/kishore2818/Leetcode-code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishore2818/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/kishore2818/Leetcode-code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kishore2818/Leetcode-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kishore2818/Leetcode-code/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kishore2818/Leetcode-code/tree/master/0168-excel-sheet-column-title) |
